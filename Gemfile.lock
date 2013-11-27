@@ -9,7 +9,7 @@ PATH
 GEM
   remote: http://rubygems.org/
   specs:
-    builder (3.2.2)
+    builder
     mime-types (2.0)
     xml-simple (1.1.2)
 
